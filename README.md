@@ -2,6 +2,10 @@
 
 Este proyecto es una prueba de concepto (POC) para un nuevo paso en el flujo de checkout, donde el usuario revisa y confirma su información antes de completar la compra.
 
+Pequeña demo:
+
+[![Ver demo]](https://www.loom.com/share/b1d12e2305464ce0aea07e378861f2de?sid=abbe1819-24c0-446d-b180-82a43203aaf0)
+
 ## 🧩 Objetivo
 
 Evitar errores de datos en el proceso de compra permitiendo al usuario validar sus datos personales antes de la confirmación final.
